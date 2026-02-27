@@ -1,11 +1,11 @@
-# 🚀 Task 2 — Backend API Development
+# Task 2 — Backend API Development
 
-## 📌 Objective
+## Objective
 Develop a simple backend API to handle application logic including user input processing, validation, and response handling.
 
 ---
 
-## 🎯 Features
+## Features
 - REST API with GET and POST endpoints
 - Server-side validation
 - JSON request/response handling
@@ -14,7 +14,7 @@ Develop a simple backend API to handle application logic including user input pr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Node.js
 - Express.js
 - CORS
@@ -23,7 +23,7 @@ Develop a simple backend API to handle application logic including user input pr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Task2/
 │
 ├── index.js
@@ -36,12 +36,12 @@ Task2/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 npm install
 
-## ▶️ Run the Server
+##  Run the Server
 Development mode
 npm run dev
 Production mode
@@ -50,12 +50,12 @@ npm start
 Server runs at:
 http://localhost:5000
 
-🔌 API Endpoints
+ API Endpoints
 ➜ POST /api/users
 Create a new user
 ➜ GET /api/users
 Fetch all users
-🧪 Testing
+Testing
 Tested using:
 Postman
 Browser (GET endpoints)

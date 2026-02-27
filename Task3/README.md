@@ -1,18 +1,18 @@
 
 ---
 
-# 📁 Task 3 — README.md  
+#  Task 3 — README.md  
 (**Database + CRUD Integration**)
 
 ```markdown
-# 🚀 Task 3 — Database Integration & CRUD Operations
+#  Task 3 — Database Integration & CRUD Operations
 
-## 📌 Objective
+##  Objective
 Connect the backend API with MongoDB to store, retrieve, update, and delete application data.
 
 ---
 
-## 🎯 Features
+##  Features
 - MongoDB database connection
 - Mongoose schema design
 - Full CRUD operations
@@ -22,7 +22,7 @@ Connect the backend API with MongoDB to store, retrieve, update, and delete appl
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Node.js
 - Express.js
 - MongoDB
@@ -32,7 +32,7 @@ Connect the backend API with MongoDB to store, retrieve, update, and delete appl
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Task3/
 │
 ├── config/
@@ -47,17 +47,17 @@ Task3/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Install dependencies
+###  Install dependencies
 ```bash
 npm install
 
-2️⃣ Configure environment variables
+ Configure environment variables
 
 Create .env file:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 
-▶️ Run the Server
+ Run the Server
 npm run dev

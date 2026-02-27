@@ -1,11 +1,11 @@
-# 🚀 Task 1 — Responsive Frontend Interface
+#  Task 1 — Responsive Frontend Interface
 
-## 📌 Objective
+##  Objective
 Design and develop a responsive frontend interface for a simple web application using HTML, CSS, and basic JavaScript.
 
 ---
 
-## 🎯 Features
+## Features
 - Responsive layout for mobile, tablet, and desktop
 - Clean and modern UI
 - User-friendly form interface
@@ -14,14 +14,14 @@ Design and develop a responsive frontend interface for a simple web application 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3 (Flexbox/Grid)
 - JavaScript (Vanilla)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Task1/
 │
 ├── index.html
@@ -30,17 +30,17 @@ Task1/
 
 ---
 
-## ▶️ How to Run
+## ▶How to Run
 
 1. Download or clone the repository
 2. Open the Task1 folder
 3. Double-click **index.html**
 
-✅ No server required — runs in browser
+ No server required — runs in browser
 
 ---
 
-## 📱 Responsiveness
+## Responsiveness
 The UI adapts to:
 - Mobile screens
 - Tablets
@@ -48,7 +48,7 @@ The UI adapts to:
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Responsive design principles  
 - Semantic HTML structuring  
 - Basic DOM manipulation  
@@ -56,10 +56,10 @@ The UI adapts to:
 
 ---
 
-## ✅ Task Status
+## Task Status
 ✔ Completed as per Decode Labs requirements
 
 ---
 
-## 👨‍💻 Author
+## Author
 **JayaSri (Full Stack Intern — Decode Labs)**
